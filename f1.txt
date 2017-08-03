@@ -1,0 +1,9 @@
+mkdir folder name
+cd folder name
+pwd
+git init
+git clone link (link of repository)
+git status (o/p: dir name)
+cd dir name
+git status (o/p: file name whch i'v created)
+git add file name
